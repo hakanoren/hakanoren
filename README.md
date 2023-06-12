@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Hakan.
-- 🔭 I’m currently working on completely decentralized messaging dapp!
-- 🚀 I’m currently learning blockchain and rocket science.
+- 🚀 I’m currently learning rocket science .
+- 🧬 I'm interested in philosophy, science and sociology.
 - 📫 How to reach me: hakanorenceo@gmail.com
 - 🐦 Twitter: @hakanorens
